@@ -1,0 +1,6 @@
+# Project files
+.idea
+nbproject
+*.iml
+out
+gen
